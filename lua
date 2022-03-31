@@ -1,9 +1,3 @@
-game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "Beta";
-    Text = "Penis cock"
-})
-
-
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Killer Hub V3", "Midnight")
 
@@ -543,4 +537,4 @@ local Section = Tab:NewSection("Credits")
 
 Section:NewLabel("LegoMan360#0001")
 Section:NewLabel("Lemonade#2336")
-Section:NewLabel("Y1N#1992")
+Section:NewLabel("rain.#1992")
